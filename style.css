@@ -1,0 +1,12 @@
+BODY{background-image: linear-gradient(to right, orange, white, green); font-family:tahoma; color:blue}
+
+table,td, tr{background-color:crimson; border-radius:10px 10px 10px 10px; font-family:tahoma; color:white;}
+
+#hd{background-color:skyblue; border-radius:5px 10px 5px 10px; font-family:tahoma; color:green;}
+
+#tx{background-color:khaki; border-radius:5px 10px 5px 10px; font-family:tahoma; color:green;}
+
+#bt{background-color:red; border-radius:5px 10px 5px 10px; font-family:tahoma; color:white;}
+
+
+
